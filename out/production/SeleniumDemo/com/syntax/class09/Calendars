@@ -1,0 +1,11 @@
+1. locate the element
+2. click on the calendar (expand so we can visually see)
+3. locate the month and get text
+4. if the desired text is not visible to us --> keep clicking on NEXT and keep updating the text of the month
+5. as soon as we found our desired month --> grab all the cells from the table
+6. loop throught the cells
+7. choose the date, click on matched date
+
+www.delta.com cwiczyc na tym jutro
+
+paczka do pobrania to apache commons io 2.8.0 z sep 2020 mvn commons in search bar: commons io
